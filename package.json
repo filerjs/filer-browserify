@@ -1,0 +1,24 @@
+{
+  "name": "filer-shell",
+  "description": "Browserify module for Filer",
+  "keywords": [
+    "fs",
+    "node",
+    "file",
+    "system",
+    "browser",
+    "indexeddb",
+    "idb",
+    "websql"
+  ],
+  "version": "0.0.1",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filerjs/browserify-shell.git"
+  },
+  "dependencies": {
+    "filer": "*"
+  },
+  "main": "./index.js"
+}
