@@ -33,4 +33,4 @@ Browserify as normal!
 
 ## Contributing
 
-Feel free to file issues as you see them, and hop on **#filer** on MozNet to discuss bugs you would like to fix.
+Feel free to file issues as you see them, and hop on **#filer** on `irc.mozilla.org` to discuss bugs you would like to fix.
