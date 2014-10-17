@@ -1,5 +1,5 @@
 {
-  "name": "filer-shell",
+  "name": "filer-browserify",
   "description": "Browserify module for Filer",
   "keywords": [
     "fs",
